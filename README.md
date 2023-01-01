@@ -6,5 +6,9 @@ Sound effects, background music, and images are from pixabay.com
 
 See preview:
 
-https://www.youtube.com/watch?v=meHyqYl2tCI
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=meHyqYl2tCI
+" target="_blank"><img src="http://img.youtube.com/vi/meHyqYl2tCI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
