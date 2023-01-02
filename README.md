@@ -1,9 +1,14 @@
 # alien_invasion
 
-<b>Alien Invasion</b> is a Space Invaders style game with increasing levels of difficulty. 
-High scores are written to a local file. 
-Sound effects, background music, and images are from pixabay.com
+<b>Alien Invasion</b> is a Space Invaders style game built with Pygame using a class-based approach. 
+<br>
 
+Features include:
+  - High scores are written to a local file
+  - Levels of increasing difficulty
+  - Custom sound effects, background music, and images
+    - Sourced from pixabay.com
+<br>
 See preview:
 
 
